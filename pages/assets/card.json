@@ -1,0 +1,56 @@
+{
+	"en": [
+		{
+			"photo": "../lamp.jpg",
+			"header": "Lamp",
+			"description": "lorem ipsum cool lamp, cool product buy this",
+			"style": "",
+            "buy": "Buy",
+			"href": "/products/lamp?select=0"
+		},
+		{
+			"photo": "../lamp.jpg",
+			"header": "Lamp-mini",
+			"description": "lorem ipsum cool lamp, cool product buy this",
+			"style": "",
+            "buy": "Buy",
+			"href": "/products/lamp?select=1"
+		}
+	],
+	"ru": [
+		{
+			"photo": "../lamp.jpg",
+			"header": "Lamp",
+			"description": "Лорем Ипсум. Крутая лампа, ПОКУПАЙТЕ!!!",
+			"style": "",
+            "buy": "Купить",
+			"href": "/products/lamp?select=0"
+		},
+		{
+			"photo": "../lamp.jpg",
+			"header": "Lamp-mini",
+			"description": "Лорем Ипсум. Крутая лампа, ПОКУПАЙТЕ!!!",
+			"style": "",
+            "buy": "Купить",
+			"href": "/products/lamp?select=1"
+		}
+	],
+	"ua": [
+		{
+			"photo": "../lamp.jpg",
+			"header": "Lamp",
+			"description": "Лорем Iпсум. Файна лампа, КУПУЙ!!!!",
+			"style": "",
+            "buy": "Придбати",
+			"href": "/products/lamp?select=0"
+		},
+		{
+			"photo": "../lamp.jpg",
+			"header": "Lamp-mini",
+			"description": "Лорем Iпсум. Файна лампа, КУПУЙ!!!!",
+			"style": "",
+            "buy": "Придбати",
+			"href": "/products/lamp?select=1"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"en": {
+		"header": "Purchase form",
+		"contact": "Contact Information",
+		"delivery": "Delivery method",
+		"subButton": "Order",
+		"errMsg": "An error has occurred",
+		"msg": "Order is processed",
+		"amount": "To pay:",
+		"complete": "Your order has been placed",
+        "feedback":"We will contact you",
+		"back": "Back"
+	},
+	"ru": {
+		"header": "Форма покупки",
+		"contact": "Контактная информация",
+		"delivery": "Способ доставки",
+		"subButton": "Оформить",
+		"errMsg": "Произошла Ошибка",
+		"msg": "Заказ оформлен",
+		"amount": "К оплате:",
+		"complete": "Ваш заказ успешно оформлен",
+        "feedback":"Мы с вами свяжемся",
+		"back": "На главную"
+	},
+	"ua": {
+		"header": "Форма замовлення",
+		"contact": "Контактная iнформацiя",
+		"delivery": "Спосіб доставки",
+		"subButton": "Оформити",
+		"errMsg": "Виникла помилка",
+		"msg": "Замовлення оформлено",
+		"amount": "До сплати:",
+		"complete": "Ваше замовлення успiшно оформлено",
+        "feedback":"Ми з вами зв'яжемося",
+		"back": "На головну"
+	}
+}

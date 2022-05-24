@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Nice lamp",
+		"description": "lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium facilis officiis dignissimos",
+		"price": "322грн",
+		"photo": "../lamp.jpg"
+	},
+	{
+		"name": "Cool lamp",
+		"description": "lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium facilis officiis dignissimos",
+		"price": "322грн",
+		"photo": "../lamp1.jpg"
+	},
+	{
+		"name": "Grate lamp",
+		"description": "lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium facilis officiis dignissimos",
+		"price": "322грн",
+		"photo": "../lamp2.jpg"
+	}
+]

@@ -1,0 +1,88 @@
+{
+	"lamp": {
+		"en": {
+			"buy": "Buy",
+			"cart": "To Cart",
+			"photo": "../lamp.png",
+			"char": "UAH",
+			"description": {
+				"header": "Buy Lamp",
+				"model": "Choose model",
+				"accessories": "Accessories"
+			},
+			"variation": [
+				{
+					"name": "Lamp",
+					"description": "110 cm",
+					"price": 2499,
+					"char": "UAH",
+					"id": 0
+				},
+				{
+					"name": "Lamp mini",
+					"description": "60 cm",
+					"price": 1999,
+					"char": "UAH",
+					"id": 1
+				}
+			],
+			"accessories": []
+		},
+		"ru": {
+			"buy": "Купить",
+			"cart": "Корзина",
+			"photo": "../lamp.png",
+			"char": "грн",
+			"description": {
+				"header": "Покупка Lamp",
+				"model": "Выбирете модель",
+				"accessories": "Аксессуары"
+			},
+			"variation": [
+				{
+					"name": "Lamp",
+					"description": "110 см",
+					"price": 2499,
+					"char": "грн",
+					"id": 0
+				},
+				{
+					"name": "Lamp mini",
+					"description": "60 см",
+					"price": 1999,
+					"char": "грн",
+					"id": 1
+				}
+			],
+			"accessories": []
+		},
+		"ua": {
+			"buy": "Придбати",
+			"cart": "До Кошика",
+			"photo": "../lamp.png",
+			"char": "грн",
+			"description": {
+				"header": "Придбання Lamp",
+				"model": "Модель",
+				"accessories": "Аксесуари"
+			},
+			"variation": [
+				{
+					"name": "Lamp",
+					"description": "110 см",
+					"price": 2499,
+					"char": "грн",
+					"id": 0
+				},
+				{
+					"name": "Lamp mini",
+					"description": "60 см",
+					"price": 1999,
+					"char": "грн",
+					"id": 1
+				}
+			],
+			"accessories": []
+		}
+	}
+}

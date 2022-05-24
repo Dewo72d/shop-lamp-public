@@ -1,0 +1,98 @@
+{
+	"en": [
+		{
+			"id": 0,
+			"value": "Main",
+			"href": "/",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 1,
+			"value": "Lamp",
+			"href": "/products/lamp?select=0",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 2,
+			"value": "Lamp Mini",
+			"href": "/products/lamp?select=1",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 3,
+			"value": "App",
+			"href": "/support",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 4,
+			"value": "Buy",
+			"href": "/buy",
+			"style": "cursor-pointer  nav-btn text-white bg-blue hover:bg-blueLight border-2 border-black flex items-center justify-center text-sm w-16 h-7  pb-1 rounded-full"
+		}
+	],
+	"ru": [
+		{
+			"id": 0,
+			"value": "Главная",
+			"href": "/",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 1,
+			"value": "Lamp",
+			"href": "/products/lamp?select=0",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 2,
+			"value": "Lamp Mini",
+			"href": "/products/lamp?select=1",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 3,
+			"value": "App",
+			"href": "/support",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 4,
+			"value": "Купить",
+			"href": "/buy",
+			"style": "cursor-pointer  nav-btn text-white bg-blue hover:bg-blueLight border-2 border-black flex items-center justify-center text-sm w-16 h-7  pb-1 rounded-full"
+		}
+	],
+	"ua": [
+		{
+			"id": 0,
+			"value": "Головна",
+			"href": "/",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 1,
+			"value": "Lamp",
+			"href": "/products/lamp?select=0",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 2,
+			"value": "Lamp Mini",
+			"href": "/products/lamp?select=1",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 3,
+			"value": "App",
+			"href": "/support",
+			"style": "cursor-pointer nav-btn"
+		},
+		{
+			"id": 4,
+			"value": "Купити",
+			"href": "/buy",
+			"style": "cursor-pointer  nav-btn text-white bg-blue hover:bg-blueLight border-2 border-black flex items-center justify-center text-sm w-24 h-7 pt-2 pb-2 rounded-full"
+		}
+	]
+}

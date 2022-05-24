@@ -1,0 +1,32 @@
+{
+	"product": {
+		"buy": "",
+		"cart": "",
+		"photo": "",
+		"description": { "header": "", "model": "", "accessories": "" },
+		"char": "",
+		"variation": [
+			{
+				"name": "",
+				"description": "",
+				"price": 0,
+				"id": 0
+			}
+		],
+		"accessories": [
+			{
+				"name": "",
+				"description": "",
+				"price": 0,
+				"id": 0,
+				"char": ""
+			}
+		]
+	},
+	"dispatcher": {
+		"reduxAction": "",
+		"names": { "name": "", "price": "" }
+	},
+
+	"state": [null, null]
+}
